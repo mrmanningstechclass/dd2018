@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DD2018",
+"dataUrl": "DD2018-5.data.unityweb",
+"wasmCodeUrl": "DD2018-5.wasm.code.unityweb",
+"wasmFrameworkUrl": "DD2018-5.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
